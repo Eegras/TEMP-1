@@ -96,4 +96,4 @@ logger:
 packages:
   core: !include Core.yaml
   battery: !include Battery.yaml
-  33resistance: !include NewResistance.yaml
+  100resistance: !include 100Resistance.yaml
